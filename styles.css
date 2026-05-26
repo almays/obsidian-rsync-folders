@@ -1,0 +1,22 @@
+.rsync-folders-log {
+  white-space: pre-wrap;
+  overflow: auto;
+  max-height: 60vh;
+  padding: 12px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  background: var(--background-secondary);
+  font-family: var(--font-monospace);
+  font-size: var(--font-smaller);
+}
+
+.rsync-folders-mapping {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+.rsync-folders-mapping h4 {
+  margin: 0 0 8px;
+}

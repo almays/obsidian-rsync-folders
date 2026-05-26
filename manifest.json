@@ -1,0 +1,10 @@
+{
+  "id": "rsync-folders",
+  "name": "Rsync Folders",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Synchronize Obsidian vault folders with remote server paths via rsync.",
+  "author": "Keali",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
